@@ -1,0 +1,51 @@
+ul { list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: black;
+  position: -webkit-sticky;   position: sticky;  top: 0;}
+li a { display: block; color: white; text-align: center; padding:14px 16px;
+      float: right; text-decoration: none;}
+li a:hover { background-color: #686363;}
+.įviršų { text-decoration: none; color: black; font-weight: bolder;}
+.spirmas { border:0px; height: 225px; width: 400px; float: left;}
+.santras { border: 0px; height: 225px; width: 100%; background-color: #686363;
+            font-size: 5em; font-family: fantasy; text-align: center;}
+.strečias   { border: 0px solid red; height: 920px; width: 400px; float: left;
+            background-color: #EDD9D9; color: #CBC1C1;}
+.sketvirtas { border: 0px solid red; height: 920px; width: 400px; float: left;
+            background-color: #EDD9D9; color: #CBC1C1;}
+.spenktas { border: 0px solid red; height: 920px; width: 531px; float: left;
+            background-color: #EDD9D9;}
+.mc { margin-left: 50px; font-family: Copperplate, Papyrus, fantasy; font-weight: bolder;}
+.strečias:hover { color: black; background-color: #EDD9D9;}
+.sketvirtas:hover { color: black; background-color:#EDD9D9;}
+.spenktas:hover { color: black; background-color: #EDD9D9;}
+.sšeštas { border: 0px solid red; height: 700px; width: 510px; float: left;
+            background-color: #EDD9D9; color: #4F5284;}
+.sseptintas { border: 0px solid red; height: 700px; width: 821px; float: left;
+            background-color: #272A61; color: #4F5284;}
+.sšeštas:hover { color: black;}
+.sseptintas:hover { color: black; background-color: #D7D9FF;}
+.mb {  margin-left: 100px; font-family: Copperplate, Papyrus, fantasy;font-weight: bolder;}
+.mbframe  { margin-top: 20px;}
+.sastuntas { border: 0px solid red; height: 810px; width: 400px; float: left;
+            background-color: #EDD9D9; color: #CBC1C1;}
+.sdevintas   { border: 0px solid red; height: 810px; width: 930px; float: left;
+            background-color: #EDD9D9; color: #CBC1C1;}
+.dm { margin-left: 120px;font-family: Copperplate, Papyrus, fantasy;}
+.dmframe {  margin-top: 100px;}
+.sastuntas:hover { color: black; background-color: #EDD9D9;}
+.sdevintas:hover { color: black; background-color: #EDD9D9; font-weight: bolder;}
+.sdesimtas  { border: 0px solid red; height: 720px; width: 400px; float: left;
+            background-color: #272A61; color: #4F5284;}
+.svienuoliktas { border: 0px solid red; height: 720px; width: 400px;float: left;
+            background-color: #272A61; color: #4F5284;}
+.sdvyliktas { border: 0px solid red; height: 720px; width: 530px; float: left;
+            background-color: #EDD9D9;}
+.cr { margin-left: 80px;font-family: Copperplate, Papyrus, fantasy;}
+.crframe  { margin-top: 40px;}
+.sdesimtas:hover { color: black;}
+.svienuoliktas:hover { color: black;}
+.zemelapis {  border: 0px solid orange; width: 400px; height: 330px; float: left;background-color: #686363;}
+.info {  border: 0px solid black; width: 600px; height: 330px; float: left; font-size: 2em; background-color: #686363}
+.forma {  border: 0px solid orange; width: 330px; height: 330px;float: left; background-color: #686363;}
+.zemelapisframe { margin-top: 30px; margin-left: 10px;}
+.tekstas  { margin-left: 20px; margin-right: 20px;}
+.form  { margin-left: 20px;}
